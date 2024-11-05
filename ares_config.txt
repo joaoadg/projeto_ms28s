@@ -1,0 +1,15 @@
+#Ares: Dogfighter
+#Tue Nov 05 12:15:58 BRST 2024
+music_during_game=false
+enemy_difficulty=1
+inverse_pitch=false
+max_enemies=1
+mute=false
+config_version=0
+credits=0
+num_enemies=0
+simple_models=true
+mouse_sensitivity=0.99
+num_wingmen=0
+game_type=0
+fov_angle=100
